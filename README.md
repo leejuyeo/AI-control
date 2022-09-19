@@ -1,8 +1,8 @@
 #자기소개
 #이름 :이주엽
 #나이 : 22
-# 학교 : 창원 폴리텍대학교스마트팩토리과
+# 학교 : 창원 폴리텍대학교 스마트팩토리과
 
->SNS, mail
+<mail, sns>
 <zhvla10@naver.com>
-<https://www.instagram.com/ijuyeob55/>
+<https://www.instagram.com/ijuyeob55>
