@@ -1,10 +1,11 @@
 Data Type Conversion
 ---
-**| sr.No. |  Function&Description |**
-**| int(x[,base] | x를 정수로 변환합니다. x가 문자열인 경우 베이스가 지정됩니다. |**
-**| float(x) | x를 부동 소수점 숫자로 변환합니다. |**
-**| comples(real [,imag]) | 복소수를 작성하다. |**
-**| str(x) | 개체 x를 문자열 표현으로 변환합니다. | **
+| sr.No. |  Function&Description |
+| :-------------: | :---------------: |
+| int(x[,base] | x를 정수로 변환합니다. x가 문자열인 경우 베이스가 지정됩니다. |
+| float(x) | x를 부동 소수점 숫자로 변환합니다. |
+| comples(real [,imag]) | 복소수를 작성하다. |
+| str(x) | 개체 x를 문자열 표현으로 변환합니다. | 
 | repr(x) | 개체 x를 식 문자열로 변환합니다. |
 | eval(str) | 개체 x를 표현식 문자열로 변환합니다. |
 | tuple(s) | s를 튜플로 변환합니다 |
