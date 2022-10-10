@@ -2,6 +2,8 @@
 #이름 :이주엽
 #나이 : 22
 # 창원 : 폴리텍대학교 스마트팩토리과
+<https://www.kopo.ac.kr/changwon/content.do?menu=8188>
+---
 #MBTI : isfj
 ---
 <mail, sns>
