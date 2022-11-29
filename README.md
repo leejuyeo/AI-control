@@ -16,3 +16,11 @@
 
 #AI 기말 프로젝트 PPT 초안
 [(221026_5) AI 과제선정 PPT.pptx](https://github.com/leejuyeo/AI-control/files/9906844/221026_5.AI.PPT.pptx)
+
+### 과제 변경
+(221122) mediapipe 기능 숙지 부족으로 인해 과제 변경
+
+### Arm Curl 인식 프로그램
+
+[참고 링크](https://www.youtube.com/watch?v=06TE_U21FK4)
+[AI 과제선정 PPT](https://github.com/leejuyeo/AI-control/blob/main/%EC%95%94%EC%BB%AC%EC%B9%B4%EC%9A%B4%ED%8A%B8%20(1).pptx)
