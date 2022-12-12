@@ -24,3 +24,22 @@
 
 [참고 링크](https://www.youtube.com/watch?v=06TE_U21FK4)
 [AI 과제선정 PPT](https://github.com/leejuyeo/AI-control/blob/main/%EC%95%94%EC%BB%AC%EC%B9%B4%EC%9A%B4%ED%8A%B8%20(1).pptx)
+
+### 선정프로그램        
+
+Arm Curl 인식 프로그램          
+
+### 프로젝트 제작 기간          
+
+221025~221203           
+
+--------------------------------------      
+
+### [시연영상](https://youtu.be/fQRlL3JTdS4)     
+
+--------------------------------------     
+
+### Arm Crul이란?   
+
+팔을 들어올리면서 이두근육을 자극시키는 운동, 대표적인 팔 운동       
+
